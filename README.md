@@ -1,2 +1,4 @@
-# SImulation-of-snake-and-ladder-game
+# SImulation-of-snake-and-ladder-game(Minor Project)
 In this project, I have proposed a specific version of snake and ladder game, inspired from the Milton Bradley version of chutes and ladders introduced in 1943. The main aim of this project is to find the average number of dice to be thrown such that the player wins the game. Initially, a model is proposed using random walk technique in Python language with the help of some pre defined libraries, and then it is simulated for one million times using Monte Carlo simulation method. The project also involves in deriving the statistical properties of the data obtained after simulation. Further, from the derived statistical properties, we conclude that it follows a specific univariate distribution.
+
+For more details, drop me a mail at aaryanshivam19@gmail.com and I will provide you full details along with my project report.
